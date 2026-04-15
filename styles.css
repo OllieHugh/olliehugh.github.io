@@ -391,7 +391,6 @@
   font-family: var(--font2);
   color: var(--color-accent);
   text-transform: uppercase;
-  align-self: flex-center;
 }
 
 
