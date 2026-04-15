@@ -165,7 +165,7 @@
   .nav-link {
     text-decoration: none;
     color: var(--color-text-muted);
-    font-family: var(--font1);
+    font-family: var(--font);
   }
 
   
